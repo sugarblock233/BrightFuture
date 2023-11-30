@@ -15,7 +15,7 @@ body {
 }
 
 .brightFutureLogo:hover {
-    transform: translate(-50%, -50%) scale(1.2) rotate(355deg); /* 悬停时同时应用平移、放大和旋转 */
+    transform: translate(-50%, -50%) scale(1.2) rotate(355deg);
 }
 
 /*
